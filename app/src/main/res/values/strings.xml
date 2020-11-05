@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notepad Kotlin</string>
+    <string name="note">Note</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="action_settings">action_settings</string>
+</resources>
