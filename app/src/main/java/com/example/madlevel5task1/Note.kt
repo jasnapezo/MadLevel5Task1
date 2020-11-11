@@ -19,5 +19,6 @@ class Note (
     var text: String,
 
     @PrimaryKey(autoGenerate = true)
-    var id: Long
+    @ColumnInfo(name = "id")
+    var id: Long? = null
 )

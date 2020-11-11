@@ -47,7 +47,6 @@ abstract class NotepadRoomDatabase : RoomDatabase() {
                     }
                 }
             }
-
             return INSTANCE
         }
     }
